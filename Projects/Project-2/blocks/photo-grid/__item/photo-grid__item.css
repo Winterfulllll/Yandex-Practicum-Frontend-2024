@@ -1,0 +1,9 @@
+.photo-grid__item {
+  width: 100%;
+  filter: grayscale(80%);
+  transition: filter 0.2s ease-out;
+}
+
+.photo-grid__item:hover {
+  filter: grayscale(0%);
+}
