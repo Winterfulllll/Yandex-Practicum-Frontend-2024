@@ -1,0 +1,34 @@
+.projectItem {
+  border-radius: 30px;
+  border: 2px solid white;
+  background-color: rgba(255, 255, 255, 0.1);
+  margin-bottom: 40px;
+  opacity: 70%;
+  transition: opacity 0.5s ease;
+}
+
+.projectItem:hover {
+  opacity: 100%;
+}
+
+.projectItem:last-of-type {
+  margin-bottom: 0;
+}
+
+.projectLink {
+  display: inline-block;
+  color: inherit;
+  text-decoration: none;
+  height: 100%;
+  width: calc(100% - 30px * 2);
+  padding: 30px;
+}
+
+.projectName {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.projectSprints {
+  margin-bottom: 10px;
+}

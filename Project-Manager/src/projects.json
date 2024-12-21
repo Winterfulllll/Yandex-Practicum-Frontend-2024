@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Научиться учиться",
+    "sprints": "2-3",
+    "description": "Вёрстка + анимация, шрифты и фреймы",
+    "path": "Projects/Project-1/index.html"
+  },
+  {
+    "id": 2,
+    "name": "Путешествие по России",
+    "sprints": "4",
+    "description": "Адаптивная вёрстка",
+    "path": "Projects/Project-2/index.html"
+  }
+]

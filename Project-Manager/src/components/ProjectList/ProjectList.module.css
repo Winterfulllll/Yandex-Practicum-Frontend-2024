@@ -1,0 +1,22 @@
+.projectListContainer {
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.projectListHeading {
+  text-align: center;
+  font-weight: 800;
+  margin-bottom: 50px;
+}
+
+.projectList {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  max-width: 500px;
+  margin: 0;
+}
